@@ -1,0 +1,5 @@
+- dig up old IIT Abhyuday wp texts, articles and slides
+- make a rough hand sketch of the pages and the featues
+- make the figma mock
+- finish course first
+- back to business, start frontend
